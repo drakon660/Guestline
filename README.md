@@ -14,10 +14,13 @@ Ensure you have the following installed:
 
 1. Clone the repository:
 2. Go to repository directory and run command
+   
    dotnet build
-3. If you want to run tests
+4. If you want to run tests
+   
    dotnet test
-5. To execute app please go to build directory and run
+6. To execute app please go to build directory and run
+   
    Guestline.exe --bookings bookings.json --hotels hotels.json 
 
    
